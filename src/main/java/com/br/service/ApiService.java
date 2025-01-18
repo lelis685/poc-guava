@@ -12,7 +12,8 @@ public class ApiService {
 
 
     public ResponseApi callApi(RequestApi requestApi, List<TipoCorteData> cortes) {
-        System.out.println("Calling API with request size: " + cortes.size());
+      //  System.out.println("Calling API with request size: " + cortes.size());
+
 
         var cortesComPrecos = cortes.stream()
                 .map(corte -> new TipoCorteDataResponseApi(corte.getId(), RandomGenerator.getDefault().nextInt(50))).toList();
