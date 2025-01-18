@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/02/demos/02_Writing-Lambda-Expressions/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/03_Composing-and-Chaining/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/04_Using-Method-References/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/05_Creating-Comparators/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/06_Designing-a-Text-File-Analyzer/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="corretto-21" project-jdk-type="JavaSDK" />
+</project>
